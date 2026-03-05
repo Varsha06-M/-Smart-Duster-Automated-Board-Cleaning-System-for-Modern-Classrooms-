@@ -1,0 +1,2 @@
+# -Smart-Duster-Automated-Board-Cleaning-System-for-Modern-Classrooms-
+Smart Duster is an automated board-cleaning system designed for modern classrooms. It uses a dual-axis rail mechanism driven by 500 RPM Johnson geared motors and limit switches for controlled movement. A microcontroller manages the cleaning cycle, ensuring uniform wiping while reducing manual effort and classroom interruptions.
